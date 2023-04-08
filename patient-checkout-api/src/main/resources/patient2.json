@@ -1,0 +1,14 @@
+[
+    {
+        "firstName": "Himanshu",
+        "lastName": "Yadav",
+        "adharNumber": "123456782323",
+        "contactNumber": 3456789
+    },
+    {
+        "firstName": "Abhinav",
+        "lastName": "Yadav",
+        "adharNumber": "123456782344",
+        "contactNumber": 34567892353
+    }
+]
